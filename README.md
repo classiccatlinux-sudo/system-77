@@ -1,3 +1,2 @@
 # system-77
- a simple cli tool to remove any amount of files/folders in one go!
- made in python3 by classic14...
+does not work abaned 
